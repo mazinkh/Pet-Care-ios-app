@@ -13,7 +13,7 @@ An iOS application built in Swift that helps users manage and track their petsâ€
 
 - Swift
 - Xcode
-- UIKit / SwiftUI (whichever you used)
+- UIKit
 - iOS Simulator
 - XCTest for testing
 
