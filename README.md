@@ -30,6 +30,8 @@ An iOS application built in Swift that helps users manage and track their pets�
 4.    Press Run ▶️
 
 ## Project Sturcture
+```
 Pet Care/
 Pet CareTests/
 Pet CareUITests/
+```
