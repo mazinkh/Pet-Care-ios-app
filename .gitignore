@@ -1,0 +1,48 @@
+//
+//  .gitignore
+//  Pet Care
+//
+//  Created by Mohammed Mazin Khan on 3/2/26.
+//
+
+# Xcode
+build/
+DerivedData/
+*.xcworkspace
+!default.xcworkspace
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+
+# User settings
+xcuserdata/
+*.xcuserdatad/
+*.xcuserstate
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/
+
+# macOS
+.DS_Store
+
+# Archives
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Secrets
+GoogleService-Info.plist
+.env
+
+# Git
+.git
